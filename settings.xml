@@ -2,14 +2,14 @@
 <settings>
 <profiles>
   <profile>
-    <id>default-libs-snapshot-local</id>
+    <id>snapshots</id>
     <activation>
       <activeByDefault>true</activeByDefault>
     </activation>
     <repositories>
       <repository>
-        <id>default-libs-snapshot-local</id>
-        <url>https://chethangolla.jfrog.io/artifactory/default-libs-snapshot-local/</url>
+        <id>snapshots</id>
+        <url>http://35.79.17.158:8081/artifactory/libs-snapshot-local</url>
       </repository>
     </repositories>
   </profile>
@@ -19,9 +19,9 @@
   </activeProfiles>
 <servers>
   <server>
-    <id>default-libs-snapshot-local</id>
-    <username>gollachethan1@gmail.com</username>
-    <password>Chethan@22</password>
+    <id>snapshots</id>
+    <username>brahmanapallysanthosh@gmail.com</username>
+    <password>redhat@123</password>
   </server>
 </servers>
 </settings>
