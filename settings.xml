@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+<profiles>
+  <profile>
+    <id>default-libs-snapshot-local</id>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
+    <repositories>
+      <repository>
+        <id>default-libs-snapshot-local</id>
+        <url>https://chethangolla.jfrog.io/artifactory/default-libs-snapshot-local/</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
+  <activeProfiles>
+    <activeProfile>default</activeProfile>
+  </activeProfiles>
+<servers>
+  <server>
+    <id>default-libs-snapshot-local</id>
+    <username>gollachethan1@gmail.com</username>
+    <password>Chethan@22</password>
+  </server>
+</servers>
+</settings>
