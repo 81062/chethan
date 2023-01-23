@@ -20,7 +20,7 @@
 <servers>
   <server>
     <id>snapshots</id>
-    <username>brahmanapallysanthosh@gmail.com</username>
+    <username>sonar</username>
     <password>redhat@123</password>
   </server>
 </servers>
