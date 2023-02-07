@@ -9,16 +9,16 @@
   <url>http://maven.apache.org</url>
         <properties>
 		<!-- SonarQube Integration -->
-		<sonar.organization>chethanpro</sonar.organization>
-		<sonar.projectKey>chethanpro</sonar.projectKey>
-		<sonar.host.url>http://13.115.118.182:9000</sonar.host.url>
-		<sonar.login>51be0f512abe5cf6c3fb40a878cef5bb4eed9459</sonar.login>
+		<sonar.organization>sonar</sonar.organization>
+		<sonar.projectKey>sonar</sonar.projectKey>
+		<sonar.host.url>http://3.112.213.38:9000</sonar.host.url>
+		<sonar.login>e42fe4a5733289606a383072319555dc8764fd9f</sonar.login>
 	</properties>
   <distributionManagement> 
     <snapshotRepository>
         <id>snapshots</id>
         <name>jfrog.cloudbinary.io-snapshots</name>
-        <url>http://35.79.17.158:8081/artifactory/libs-snapshot-local</url>
+        <url>http://52.192.182.108:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
  
